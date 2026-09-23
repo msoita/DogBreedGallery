@@ -7,6 +7,7 @@ const refreshDogs = document.getElementById("refreshDogs");
 
 const dogCards = [];
 const dogArray = [];
+
 const dogsToDisplay = 8;
 
 function createDogCard(dogBreed, dogPhoto){
